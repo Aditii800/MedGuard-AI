@@ -99,3 +99,31 @@ professional medical advice, diagnosis, or treatment.
 MedGuard AI is developed for academic and research purposes.
 It is not intended to provide medical advice, diagnosis, or treatment.
 Users should consult qualified healthcare professionals for medical concerns.
+
+## Development Roadmap
+
+### Reliability Improvements
+- [x] Organized backend and frontend structure
+- [x] Added modular safety detection components
+- [x] Implemented response risk classification
+- [x] Added emergency detection mechanisms
+- [x] Integrated API-based response generation
+
+### Testing and Evaluation
+- [x] Created backend test suite
+- [x] Added hallucination detector tests
+- [x] Added response guard tests
+- [x] Added emergency guard tests
+- [x] Added risk classifier tests
+
+### Future Development
+- [ ] Expand medical evidence datasets
+- [ ] Improve claim verification accuracy
+- [ ] Add advanced evaluation metrics
+- [ ] Improve emergency detection coverage
+- [ ] Enhance user interface accessibility
+- [ ] Add more medical safety test scenarios
+- [ ] Improve API response validation
+- [ ] Optimize processing performance
+- [ ] Add detailed evaluation reports
+- [ ] Improve explainability of risk scores
